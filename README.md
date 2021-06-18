@@ -8,13 +8,6 @@
   
   :white_small_square: Visualizar personas cadastradas
   
-  ## Integrantes :technologist:
-  
-  :white_medium_small_square: Diego Lopes
-  :white_medium_small_square: Hosana Ferreira
-  :white_medium_small_square: Leandro Bispo 
-  :white_medium_small_square: Vítor Lima 
-  
   
   ## Ferramentas :gear:
   ### :hammer_and_wrench: Utilizadas na criação do sistema
