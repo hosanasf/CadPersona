@@ -8,6 +8,14 @@
   
   :white_small_square: Visualizar personas cadastradas
   
+  ## Integrantes :technologist:
+  
+  :white_medium_small_square: Diego Lopes
+  :white_medium_small_square: Hosana Ferreira
+  :white_medium_small_square: Leandro Bispo 
+  :white_medium_small_square: Vítor Lima 
+  
+  
   ## Ferramentas :gear:
   ### :hammer_and_wrench: Utilizadas na criação do sistema
   <a href="">
@@ -38,8 +46,27 @@
   </a>
   
   <a href="">
-  <img align="left" alt="drive" height="40" width= "40" src="https://image.flaticon.com/icons/png/512/2991/2991247.png">
+  <img align="center" alt="drive" height="40" width= "40" src="https://image.flaticon.com/icons/png/512/2991/2991247.png">
   </a>
+  
+  
+  
+  
+  
+  
+  
+  ## Integrantes :technologist:
+  
+  :white_medium_small_square: Diego Lopes
+  
+  :white_medium_small_square: Hosana Ferreira
+  
+  :white_medium_small_square: Leandro Bispo 
+  
+  :white_medium_small_square: Vítor Lima 
+  
+  
+  
   
  
   
